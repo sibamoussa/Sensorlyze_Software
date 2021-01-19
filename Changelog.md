@@ -14,3 +14,9 @@ This file includes a documentation of all notable changes to this Sensorlyze.
 
 ## V 1.0.0 - 01/01/2021
 Initial software version
+
+**Known Issues**
+
+Sensolytics file format dont work very well. 
+
+

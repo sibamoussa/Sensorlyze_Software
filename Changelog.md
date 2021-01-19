@@ -17,6 +17,6 @@ Initial software version
 
 **Known Issues**
 
-Sensolytics file format dont work very well. 
+Sensolytics file format doesnt work well. 
 
 

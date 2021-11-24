@@ -2,7 +2,7 @@
 
 Sensorlyze is a Python-based GUI for treating electrochemical data. Specific functionalities for chronoameprometric data are included. 
 
-For documentation, refer to https://sibamoussa.github.io/sensorlyze/. 
+For documentation, refer to https://sibamoussa.github.io/sensorlyzemanual/. 
 
 # Getting Started 
 Two options are currently available to run Sensorlyze: 

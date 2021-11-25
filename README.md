@@ -7,7 +7,7 @@ For documentation, refer to https://sibamoussa.github.io/sensorlyzemanual/.
 # Getting Started 
 Two options are currently available to run Sensorlyze: 
 
-1. An exectuable file readily available from https://github.com/sibamoussa/Sensorlyze_Software
+1. An exectuable file readily available from https://drive.google.com/drive/folders/1wTcSYdA--Ps0kcHzFx7qqUe1zSZY850c?usp=sharing. 
 
 2. A set of modifiable python scripts 
 
